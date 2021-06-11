@@ -68,8 +68,8 @@ hi StatusLine guifg=#ecf0c1 ctermfg=255 guibg=#0f111b ctermbg=233 gui=reverse ct
 hi link StatusLineTerm StatusLine
 hi StatusLineTermNC guifg=#000000 ctermfg=0 guibg=#30365F ctermbg=237 gui=reverse cterm=reverse
 hi link StatusLineNC StatusLineTermNC
-hi TabLine guifg=#000000 ctermfg=0 guibg=#818596 ctermbg=102 gui=NONE cterm=NONE
-hi TabLineFill guifg=#818596 ctermfg=102 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
+hi TabLine guifg=#000000 ctermfg=0 guibg=#818596 ctermbg=#4287f5 gui=NONE cterm=NONE
+hi TabLineFill guifg=#818596 ctermfg=102 guibg=#000000 ctermbg=#0062ff gui=NONE cterm=NONE
 hi TabLineSel guifg=#c1c3cc ctermfg=251 guibg=#0f111b ctermbg=233 gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#1b1c36 ctermbg=234 gui=NONE cterm=NONE
 hi link VisualNOS Visual
